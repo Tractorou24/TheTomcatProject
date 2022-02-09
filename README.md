@@ -10,6 +10,7 @@ Currently, this repo reflects the project in its current state and is not 100% f
 | ---------------------- | :-------------: | ------ | ------------------------------ |
 | **_General Part_**     |                 |        |                                |
 | SEAT                   | :no_entry_sign: | Design | Do not build / Errors expected |
+| RADIO REPEATER         | :no_entry_sign: | Design | Do not build / Errors expected |
 | **_Pilot Part_**       |                 |        |                                |
 | ACM PANEL              | :no_entry_sign: | Design | Do not build / Errors expected |
 | INSTRUMENT PANELS      | :no_entry_sign: | Design | Do not build / Errors expected |

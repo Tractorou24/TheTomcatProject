@@ -3,3 +3,12 @@
 .vscode/
 
 *.bak
+*.LOG
+*.log
+
+Expt/
+.svn/
+__Previews/
+History/
+Logs/
+*~*

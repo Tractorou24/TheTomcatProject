@@ -6,27 +6,27 @@ Currently, this repo reflects the project in its current state and is not 100% f
 
 ## Status
 
-| Assembly               |                 | Status |                                |
-| ---------------------- | :-------------: | ------ | ------------------------------ |
-| **_General Part_**     |                 |        |                                |
-| SEAT                   | :no_entry_sign: | Design | Do not build / Errors expected |
-| RADIO REPEATER         | :no_entry_sign: | Design | Do not build / Errors expected |
-| **_Pilot Part_**       |                 |        |                                |
-| ACM PANEL              | :no_entry_sign: | Design | Do not build / Errors expected |
-| INSTRUMENT PANELS      | :no_entry_sign: | Design | Do not build / Errors expected |
-| KNEE PANELS            | :no_entry_sign: | Design | Do not build / Errors expected |
-| LEFT CONSOLE           | :no_entry_sign: | Design | Do not build / Errors expected |
-| RIGHT CONSOLE          | :no_entry_sign: | Design | Do not build / Errors expected |
-| LEFT VERTICAL CONSOLE  | :no_entry_sign: | Design | Do not build / Errors expected |
-| RIGHT VERTICAL CONSOLE | :no_entry_sign: | Design | Do not build / Errors expected |
-| **_Rio Part_**         |                 |        |                                |
-| DDD PANEL              | :no_entry_sign: | Design | Do not build / Errors expected |
-| INSTRUMENT PANELS      | :no_entry_sign: | Design | Do not build / Errors expected |
-| KNEE PANELS            | :no_entry_sign: | Design | Do not build / Errors expected |
-| LEFT CONSOLE           | :no_entry_sign: | Design | Do not build / Errors expected |
-| RIGHT CONSOLE          | :no_entry_sign: | Design | Do not build / Errors expected |
-| LEFT VERTICAL CONSOLE  | :no_entry_sign: | Design | Do not build / Errors expected |
-| RIGHT VERTICAL CONSOLE | :no_entry_sign: | Design | Do not build / Errors expected |
+| Assembly               |                 | Status        |                                |
+| ---------------------- | :-------------: | ------------- | ------------------------------ |
+| **_General Part_**     |                 |               |                                |
+| SEAT                   | :no_entry_sign: | Design        | Do not build / Errors expected |
+| RADIO REPEATER         |    :warning:    | Waiting Tests | Not tested                     |
+| **_Pilot Part_**       |                 |               |                                |
+| ACM PANEL              | :no_entry_sign: | Design        | Do not build / Errors expected |
+| INSTRUMENT PANELS      | :no_entry_sign: | Design        | Do not build / Errors expected |
+| KNEE PANELS            | :no_entry_sign: | Design        | Do not build / Errors expected |
+| LEFT CONSOLE           | :no_entry_sign: | Design        | Do not build / Errors expected |
+| RIGHT CONSOLE          | :no_entry_sign: | Design        | Do not build / Errors expected |
+| LEFT VERTICAL CONSOLE  | :no_entry_sign: | Design        | Do not build / Errors expected |
+| RIGHT VERTICAL CONSOLE | :no_entry_sign: | Design        | Do not build / Errors expected |
+| **_Rio Part_**         |                 |               |                                |
+| DDD PANEL              | :no_entry_sign: | Design        | Do not build / Errors expected |
+| INSTRUMENT PANELS      | :no_entry_sign: | Design        | Do not build / Errors expected |
+| KNEE PANELS            | :no_entry_sign: | Design        | Do not build / Errors expected |
+| LEFT CONSOLE           | :no_entry_sign: | Design        | Do not build / Errors expected |
+| RIGHT CONSOLE          | :no_entry_sign: | Design        | Do not build / Errors expected |
+| LEFT VERTICAL CONSOLE  | :no_entry_sign: | Design        | Do not build / Errors expected |
+| RIGHT VERTICAL CONSOLE | :no_entry_sign: | Design        | Do not build / Errors expected |
 
 ![Tomcat Pits screen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXBy-bCu0zwDx5ymujFWbmbKfu0xjy4AOFug&usqp=CAU)
 
